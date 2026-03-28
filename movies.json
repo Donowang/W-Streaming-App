@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1228246,
+    "title": "Five Nights at Freddy's 2",
+    "poster": "https://image.tmdb.org/t/p/w500/zaKVvYUJRqgz48FadyxWqGi4m3Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
+    "overview": "Un an s’est écoulé depuis le cauchemar surnaturel survenu chez Freddy Fazbear's Pizza. Un effroyable nouveau chapitre d'horreur s'ouvre lorsqu’Abby, la sœur de Mike, ancien agent de sécurité, s'échappe à la recherche de ses amis animatroniques : Freddy, Bonnie, Chica et Foxy. Alors que de terrifiants événements se déclenchent, de sombres secrets sur les véritables origines de Freddy sont révélés, libérant une horreur oubliée depuis des décennies.",
+    "type": "movie",
+    "date": "2025-12-03",
+    "rating": 6.672,
+    "year": "2025",
+    "original_language": "en",
+    "slug": "U2FsdGVkX1+OlNYDCB7HYhSeUbYH+ZvIUb/Jsw9MvOc=",
+    "runtime": 104,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horreur"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "budget": 36000000,
+    "revenue": 239502619,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27972,
+        "known_for_department": "Acting",
+        "name": "Josh Hutcherson",
+        "original_name": "Josh Hutcherson",
+        "popularity": 4.0004,
+        "profile_path": "/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg",
+        "cast_id": 1,
+        "character": "Mike",
+        "credit_id": "659c14640d11f222dc74aba5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2283930,
+        "known_for_department": "Acting",
+        "name": "Piper Rubio",
+        "original_name": "Piper Rubio",
+        "popularity": 2.2353,
+        "profile_path": "/kIg9VvVBi1H8Bl9B697f2GE9rPo.jpg",
+        "cast_id": 25,
+        "character": "Abby",
+        "credit_id": "66d61c5a3223de6dd865b7fa",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1368507,
+        "known_for_department": "Acting",
+        "name": "Elizabeth Lail",
+        "original_name": "Elizabeth Lail",
+        "popularity": 3.0929,
+        "profile_path": "/lDYjEyqojUs2sF3CgdsOZ9vr2KL.jpg",
+        "cast_id": 26,
+        "character": "Vanessa",
+        "credit_id": "66d61c6b461e4c4887b1b954",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26457,
+        "known_for_department": "Acting",
+        "name": "Matthew Lillard",
+        "original_name": "Matthew Lillard",
+        "popularity": 5.6673,
+        "profile_path": "/mIEKAfe0iC41RDXibbTy48LtNOi.jpg",
+        "cast_id": 24,
+        "character": "William Afton / Yellow Rabbit",
+        "credit_id": "6646888bed41cee554258d7f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1824301,
+        "known_for_department": "Acting",
+        "name": "Freddy Carter",
+        "original_name": "Freddy Carter",
+        "popularity": 1.9323,
+        "profile_path": "/u4Ibhf8LnRzfuR2IUx6ZQWdWaVv.jpg",
+        "cast_id": 64,
+        "character": "Michael",
+        "credit_id": "68824f13c2adade24055e199",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4201,
+        "known_for_department": "Acting",
+        "name": "Wayne Knight",
+        "original_name": "Wayne Knight",
+        "popularity": 2.8236,
+        "profile_path": "/ecc2Detpzqu6XyCUPh0BqOBwZyO.jpg",
+        "cast_id": 69,
+        "character": "Mr. Berg",
+        "credit_id": "68aed56eaad643229662488d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1172108,
+        "known_for_department": "Acting",
+        "name": "Mckenna Grace",
+        "original_name": "Mckenna Grace",
+        "popularity": 10.3455,
+        "profile_path": "/mBJpXMfUX23NYVaKaR8jkndDmSQ.jpg",
+        "cast_id": 59,
+        "character": "Lisa",
+        "credit_id": "685b38449649559b3291b223",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4139771,
+        "known_for_department": "Acting",
+        "name": "David Andrew Calvillo",
+        "original_name": "David Andrew Calvillo",
+        "popularity": 0.4283,
+        "profile_path": "/tn6BeTc0rvpqvZ0d19CO4pCqbHX.jpg",
+        "cast_id": 94,
+        "character": "Rob",
+        "credit_id": "691b727e292048406352ec91",
+        "order": 7
+      }
+    ],
+    "director": "Emma Tammi"
+  }
+]
